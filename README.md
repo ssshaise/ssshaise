@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **C, C++, Data Structures, AI/ML Problems.**
 
-- 📫 How to reach me **ruchir412393@gmail.com**
+- 📫 How to reach me **work.sruchir@gmail.com**
 
 - ⚡ Fun fact **I sonder.**
 
