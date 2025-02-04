@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ruchir</h1>
 <h3 align="center">🌟 Enthusiastic about AI/ML and dedicated to crafting intelligent solutions that push the boundaries of technology.</h3>
 
-- 🔭 I’m currently working on **Natural Language Processing (NLP)**
+- 🔭 I’m currently working on **Data Science**
 
-- 🌱 I’m currently learning **Python, Tenserflow, R**
+- 🌱 I’m currently learning **Neural Netwroks, Deep Learning, R**
 
 - 👯 I’m looking to collaborate on **AI/ML Pojects, Backend Projects.**
 
