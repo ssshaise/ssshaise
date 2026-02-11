@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ruchir</h1>
+<h1 align="center">Hi, I'm Ruchir.</h1>
 <h3 align="center">🌟 Enthusiastic about AI/ML and dedicated to crafting intelligent solutions that push the boundaries of technology.</h3>
 
 - 🔭 I’m currently working in **Data Science**
