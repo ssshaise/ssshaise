@@ -1,17 +1,17 @@
 <h1 align="center">Hi, I'm Ruchir.</h1>
-<h3 align="center">🌟 Enthusiastic about AI/ML and dedicated to crafting intelligent solutions that push the boundaries of technology.</h3>
+<h3 align="center">Enthusiastic about AI/ML and dedicated to crafting intelligent solutions that push the boundaries of technology.</h3>
 
-- 🔭 I’m currently working in **Data Science**
+- I’m currently working in **Data Science**
 
-- 🌱 I’m currently learning **MLOps**
+- I’m currently learning **MLOps**
 
-- 👯 I’m looking to collaborate on **AI/ML Pojects, Full Stack Projects.**
+- I’m looking to collaborate on **AI/ML Pojects, Full Stack Projects.**
 
-- 💬 Ask me about **ML/DL, RAG, DS Problems.**
+- Ask me about **ML/DL, RAG, DS Problems.**
 
-- 📫 How to reach me **work.sruchir@gmail.com**
+- How to reach me **work.sruchir@gmail.com**
 
-- ⚡ Fun fact **I sonder.**
+- Fun fact **I sonder.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
