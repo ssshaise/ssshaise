@@ -7,7 +7,7 @@
 
 - I’m looking to collaborate on **AI/ML Pojects, Full Stack Projects.**
 
-- Ask me about **ML/DL, RAG, DS Problems.**
+- Ask me about **ML/DL, RAG, Agentic AI, DS Problems.**
 
 - How to reach me **work.sruchir@gmail.com**
 
